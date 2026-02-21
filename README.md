@@ -55,5 +55,6 @@
 
 ## Preview 
 
-<img width="1920" height="1080" alt="Screenshot (12)" src="https://github.com/user-attachments/assets/b93e6a59-ff2c-449b-812a-7254cc4d246f" />
+
+<img width="1919" height="1025" alt="Screenshot 2026-02-21 123728" src="https://github.com/user-attachments/assets/6b04efbb-b298-402b-b5bd-3bf6b4fb073a" />
 
